@@ -56,6 +56,7 @@ class Job:
         "mqstzk": "",
         "sfgcyiqz": "否",
         "cjlqk": "曾经医学观察，后隔离解除",
+        "mqjzdzsm": "居家学习",
         "dsjtqkms": "",
         "hjnznl": "家",
         "qgnl": "家",
